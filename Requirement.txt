@@ -1,0 +1,12 @@
+Requirements:
+There are 6 items and the client wants:
+
+1. There should be 6 columns for the following displays:
+   a. Extra extra large (xxl) >= 1400px
+   b. Extra large (xl)>=1200px
+   c. Large (lg) >=992px
+   d. Medium (md) >=768px 
+
+2. There should be 2 colums for small display >=576px
+
+3. There should be one column for extra small < 576px
